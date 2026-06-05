@@ -26,5 +26,5 @@ This repository documents my Operating System preparation for placements.
 ### Week 1
 
 - [x] Day 1 - Introduction to Operating Systems
-- [ ] Day 2 - Kernel and System Calls
-- [ ] Day 3 - Processes
+- [x] Day 2 - Kernel and System Calls
+- [x] Day 3 - Processes
