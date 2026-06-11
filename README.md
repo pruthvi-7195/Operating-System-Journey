@@ -28,3 +28,9 @@ This repository documents my Operating System preparation for placements.
 - [x] Day 1 - Introduction to Operating Systems
 - [x] Day 2 - Kernel and System Calls
 - [x] Day 3 - Processes
+- [x] Day 4 - Threads and Multithreading
+- [x] Day 5 - CPU Scheduling and FCFS
+- [x] Day 6 - Shortest Job First (SJF)
+- [x] Day 7 - Priority Scheduling
+- [x] Day 8 - Round kRobin Scheduling
+
