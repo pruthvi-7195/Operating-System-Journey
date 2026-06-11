@@ -37,3 +37,18 @@ P1 → P2 → P3 → P1 → P2 → P1
 ## Key Takeaway
 
 Round Robin provides fair CPU allocation and is widely used in time-sharing operating systems.
+
+## Program Output
+
+```text
+Execution Order:
+
+P1 executes for 2 units
+P2 executes for 2 units
+P3 executes for 2 units and completes
+
+P1 executes for 2 units
+P2 executes for 2 units and completes
+
+P1 executes for 1 units and completes
+```
