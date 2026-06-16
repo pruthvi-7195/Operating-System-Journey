@@ -1,0 +1,53 @@
+# Day 10 Notes
+
+## Process Synchronization
+
+Process Synchronization ensures proper execution when multiple processes access shared resources.
+
+---
+
+## Race Condition
+
+Occurs when multiple threads modify shared data simultaneously.
+
+Result:
+- Data Inconsistency
+- Incorrect Output
+
+---
+
+## Critical Section
+
+Part of the program where shared resources are accessed.
+
+Example:
+count++;
+
+---
+
+## Requirements
+
+### Mutual Exclusion
+Only one process can enter the critical section.
+
+### Progress
+No unnecessary waiting.
+
+### Bounded Waiting
+Every process eventually gets a chance.
+
+---
+
+## Interview Questions
+
+1. What is Process Synchronization?
+
+2. What is a Race Condition?
+
+3. What is a Critical Section?
+
+4. Explain Mutual Exclusion.
+
+5. Explain Progress.
+
+6. Explain Bounded Waiting.
